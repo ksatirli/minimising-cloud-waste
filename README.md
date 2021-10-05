@@ -30,7 +30,8 @@ If the output of `terraform plan` looks satisfactory, deploy the Dashboard using
 
 This repository contains [Terraform Outputs](https://www.terraform.io/docs/language/values/outputs.html) that will include a direct link to the newly created dashboard:
 
-![Minimize Cloud Waste with Terraform and Datadog](images/dashboard.png)
+![Minimise Cloud Waste with Terraform and Datadog](images/dashboard.png)
+
 
 ## License
 
