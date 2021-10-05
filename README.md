@@ -22,7 +22,7 @@ This repository is maintained by the contributors listed on [GitHub](https://git
 
 ## Usage
 
-* Clone this repository and initialize the Terraform provider(s) using `terraform init`
+* Clone this repository and initialise the Terraform provider(s) using `terraform init`.
 * Duplicate `terraform.tfvars.sample` to `terraform.tfvars` and fill in your Datadog [API key](https://app.datadoghq.com/account/settings#api) and [application key](https://app.datadoghq.com/access/application-keys).
 * Run `terraform plan` to preview the included Dashboard Resource.
 
