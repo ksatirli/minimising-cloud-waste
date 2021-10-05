@@ -15,10 +15,10 @@ This repository is maintained by the contributors listed on [GitHub](https://git
 
 ## Requirements
 
-* Terraform `1.0.8` or newer
-* [Terraform Cloud account](https://app.terraform.io/signup/account)
-* [Datadog account](https://app.datadoghq.com/signup)
-* [AWS account](https://portal.aws.amazon.com/billing/signup)
+* [Terraform](https://www.terraform.io/downloads.html) `1.0.8` or newer
+* [Terraform Cloud](https://app.terraform.io/signup/account) account
+* [Datadog](https://app.datadoghq.com/signup) account
+* [AWS](https://portal.aws.amazon.com/billing/signup) account
 
 ## Usage
 
