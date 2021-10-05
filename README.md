@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Minimizing Cloud Waste](#minimizing-cloud-waste)
+- [Minimising Cloud Waste](#minimising-cloud-waste)
   - [Table of Contents](#table-of-contents)
   - [Author Information](#author-information)
   - [License](#license)
