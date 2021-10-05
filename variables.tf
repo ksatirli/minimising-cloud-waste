@@ -25,4 +25,14 @@ locals {
   www_url = "https://app.${var.datadog_base_url}"
 }
 
+# see https://registry.terraform.io/providers/DataDog/datadog/latest/docs/resources/integration_aws#optional
+variable "account_id" {
+  type        = string
+  description = "Your AWS Account ID without dashes."
+}
+
+# see https://registry.terraform.io/providers/DataDog/datadog/latest/docs/resources/integration_aws#optional
+variable "role_name" {
+  type        = string
+  description = "Your AWS IAM delegation role name."
 }
