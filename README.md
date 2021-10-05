@@ -1,6 +1,6 @@
 # Minimising Cloud Waste
 
-> This repository is a collection of Terraform Resources to minimize Cloud Wasste with Datadog.
+> This repository is a collection of Terraform Resources to minimise Cloud Waste with Datadog.
 
 ## Table of Contents
 
