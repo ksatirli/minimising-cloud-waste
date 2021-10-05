@@ -22,5 +22,7 @@ variable "datadog_base_url" {
 # see https://www.terraform.io/docs/language/values/locals.html
 locals {
   api_url = "https://api.${var.datadog_base_url}"
-  www_url = "https://www.${var.datadog_base_url}"
+  www_url = "https://app.${var.datadog_base_url}"
+}
+
 }
