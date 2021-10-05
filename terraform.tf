@@ -5,7 +5,7 @@ terraform {
     organization = "ksatirli"
 
     workspaces {
-      name = "minimize-cloud-waste"
+      name = "minimise-cloud-waste"
     }
   }
 
